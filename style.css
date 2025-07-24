@@ -1,0 +1,66 @@
+
+          body { 
+              background-image: url("BG7.jpg"); /* Replace "your_image.jpg" with the path to your image */
+              background-repeat: no-repeat; /* Optional: Prevent the image from repeating */
+              background-size: cover; /* Optional: Make the image cover the entire page */
+              background-attachment: fixed; /* Optional: Keep the background fixed while scrolling */
+                  
+
+             
+                   }
+            
+             
+             a { color: rgb(73, 105, 77); } 
+        
+             ul {list-style-type: none;}
+            
+            
+                
+                    
+                          
+                    h1 {color: rgb(241, 177, 57);
+                        text-align: center;
+                        font-size: 300%;
+                         }
+                   
+                  
+                    h2 { text-align: center;
+                         color: rgb(131, 131, 133);
+                         font-size: 50;}
+                         
+                   h3 { text-align: center;
+                         color: rgb(241, 177, 57);
+                         font-size: 30;
+                        }
+       
+                         
+                   h4 { text-align: center;
+                         color: rgb(241, 177, 57);
+                         font-size: 20;
+                        }      
+
+                    
+            
+                     footer { font-size: 29px;
+                        padding-top: 10px;
+                    }
+
+
+                    .footer-links a { margin-right: 20px; }
+                    .footer-links a:hover { color: rgb(74, 113, 157); } 
+                    .email-links a:hover { color: rgb(74, 113, 157); } 
+                    .myUl-links a:hover { color: rgb(74, 113, 157);}
+                  
+                  video { text-align: center;}       
+                  
+                  .video-border { border:10px solid black;
+                        border-radius: 10px;
+                        background-color: black;}
+          
+                
+            
+                         
+                .container { text-align: center;
+                             align-items: center;
+                             font-size: 20px;
+                             padding-top: 100px;}       

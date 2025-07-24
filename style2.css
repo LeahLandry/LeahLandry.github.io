@@ -1,0 +1,18 @@
+ body, html {height: 100%;
+            margin: 0;
+            overflow: hidden; /* Prevent scrollbars on the body */ }
+          #background { position: fixed;
+          top: 0;
+          left: 0;
+          width:100%;
+          background-image: url(BG7.jpg); /* Replace with your image */
+          background-size:cover;
+          background-attachment: fixed;
+          z-index: -1; /* ensure background is behind content */} 
+
+          #content {
+            position: relative;
+            padding:20px; /* Add some spacing */
+            z-index: -1; /* ensure content is above the background */
+        
+          }
