@@ -1,5 +1,5 @@
 
-          body { 
+       body { 
               background-image: url("BG7.jpg"); /* Replace "your_image.jpg" with the path to your image */
               background-repeat: no-repeat; /* Optional: Prevent the image from repeating */
               background-size: cover; /* Optional: Make the image cover the entire page */
@@ -12,7 +12,7 @@
              
              a { color: rgb(73, 105, 77); } 
         
-             ul {list-style-type: none;}
+             ul {list-style-type: none; align-items: center;}
             
             
                 
@@ -39,7 +39,7 @@
                          font-size: 20;
                         }      
 
-                    
+                    h6 { text-align: center;}
             
                      footer { font-size: 29px;
                         padding-top: 10px;
